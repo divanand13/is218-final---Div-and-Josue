@@ -3,7 +3,7 @@ November 2023
 | Date        | Div | Josue | Student 3 |
 |-------------|-----------|-----------|-----------|
 | Nov 8 (Wed) |    X       |      X     |           |
-| Nov 10 (Fri)|           |           |           |
+| Nov 10 (Fri)|           |     x      |           |
 | Nov 15 (Wed)|           |           |           |
 | Nov 17 (Fri)|           |           |           |
 | Nov 22 (Wed) |       |           |           |  <!-- Skipped for Thanksgiving -->
