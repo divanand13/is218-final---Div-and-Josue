@@ -1,0 +1,23 @@
+5. User Stories: 
+
+Introduction
+
+User stories are concise, user-centric descriptions of a feature or functionality written from the perspective of an end-user. They are a fundamental part of the Agile development methodology and are used to capture the requirements of a software project.
+
+
+Initiative 1: Complete Customer Experience
+
+	Epic 1: Streamlined Order Process
+		As a busy college student at NJIT, I need the order process to be simple and streamlined without extended wait times so that I can get my food in a timely manner and get back to work.  
+
+	Epic 2: Rewards Program
+		Furthermore, as an avid fan of donuts and a loyal customer to the places I enjoy, I would like to be rewarded for my loyalty to the new donut shop so that I can go to the donut shop more often. 
+
+Initiative 2: Complete Menu with Limited Seasonal Options
+
+	Epic 1: Menu with the Most Popular Donut Options
+		As an avid donut fan, I need the menu to have the most popular donut options as well as some less popular options so that my friends and I can get the donuts we want. 
+		
+	Epic 2: Limited Time Seasonal Options
+		As a person that gets uninterested in going to the same restaurant all the time, I need the donut shop to have limited time options so that there is excitement in going to it year round. 
+
