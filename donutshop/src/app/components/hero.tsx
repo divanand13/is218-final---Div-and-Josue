@@ -8,8 +8,10 @@ const Hero = () => {
             <div className="flex flex-wrap w-full bg-gray-100 py-32 px-10 relative mb-4">
               <img alt="gallery" className="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="/images/donut1.jpg"/>
               <div className="text-center relative z-10 w-full">
-                <h2 className="text-2xl text-gray-900 font-medium title-font mb-2">Last Call for Holiday Delights! 
+              <div className="mb-80">
+                <h2 className="text-2xl text-black font-bold title-font">Last Call for Holiday Delights! 
                 Sign up now for member-exclusive holiday donuts!</h2>
+              </div>
                 <p className="leading-relaxed">Hurry, they are selling out fast!</p>
                 <a className="mt-3 text-indigo-500 inline-flex items-center">Learn More
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
