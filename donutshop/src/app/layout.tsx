@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <Header />
-        <GoogleAnalytics GA_MEASUREMENT_ID='G-M7ZZVZJ3YY'/>
+        <GoogleAnalytics GA_MEASUREMENT_ID='G-FZ8V692DTG'/>
         {children}
         <Footer />
         </body>
