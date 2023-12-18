@@ -7,7 +7,7 @@ const Testimonials = () => {
           <div className="flex flex-wrap -m-4">
             <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
               <div className="h-full text-center">
-                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/images/testimonial1.jpg"/>
+                <img alt="testimonial" className="w-40 h-40 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/images/testimonial1.jpg"/>
                 <p className="leading-relaxed">"I stumbled upon TheDonutDen while hunting for the perfect donut experience, and oh boy, did I hit the jackpot! The donuts here are so good; they practically levitate off the plate. I'm convinced they sprinkle a touch of magic sugar on each one. The ambiance is so enchanting; I half-expected fairies to pop out from behind the counter. Donut bliss awaits you at TheDonutDen!"</p>
                 <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">JULIUS RANDLE</h2>
