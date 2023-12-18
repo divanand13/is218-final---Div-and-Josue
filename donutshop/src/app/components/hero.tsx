@@ -9,10 +9,10 @@ const Hero = () => {
               <img alt="gallery" className="w-full object-cover h-full object-center block opacity-100 absolute inset-0" src="/images/donut1.jpg"/>
               <div className="text-center relative z-10 w-full">
               <div className="mb-80">
-                <h2 className="text-2xl text-black font-bold title-font">Last Call for Holiday Delights! 
+                <h2 className="text-2xl text-pink-600 font-bold title-font">Last Call for Holiday Delights! 
                 Sign up now for member-exclusive holiday donuts!</h2>
               </div>
-                <p className="leading-relaxed">Hurry, they are selling out fast!</p>
+                <p className="leading-relaxed text-pink-600 font-bold">Hurry, they are selling out fast!</p>
                
               </div>
             </div>
