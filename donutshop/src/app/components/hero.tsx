@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Newsletter from './Newsletter'
 const Hero = () => {
     return (
         <section className="text-gray-600 bg-pink-200 body-font border border-black">
@@ -13,6 +13,7 @@ const Hero = () => {
                 Sign up now for member-exclusive holiday donuts!</h2>
               </div>
                 <p className="leading-relaxed text-pink-600 font-bold">Hurry, they are selling out fast!</p>
+                
                
               </div>
             </div>
