@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@bradgarropy/next-google-analytics": "^1.0.2",
+    "@playwright/test": "^1.40.1",
     "@types/react-mailchimp-subscribe": "^2.1.4",
     "@types/react-native": "^0.72.8",
     "js-cookie": "^3.0.5",
